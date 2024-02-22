@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @James-A-Shields
-- 👀 I’m interested in Games, Films, Books, Ancient History, Music, Philosophy  more!
+- 👀 I’m interested in Games, Films, Books, Ancient History, Music, Philosophy and more!
 - 🌱 I’m currently learning C++ and Unreal.
 - 💞️ I’m looking to collaborate on game projects.
 - 📫 How to reach me music@jashields.com
